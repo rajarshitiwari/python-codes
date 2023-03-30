@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#apple
+.DS_Store
+
 # text, and data files
 *.txt
 *.dat
