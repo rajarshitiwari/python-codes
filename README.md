@@ -1,5 +1,19 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#python-codes)
+---
+title: Python Codes
+mathjax: true
+---
 
 # ➤ python-codes
-Collection of various python scripts I wrote in past while self learning python
+This is a collection of various python scripts I wrote in past while self learning python. The files are constantly added, and in somewhat random fashion. Over the time I will try to organize them into folders. For most exercises, you will need to have `numpy` installed.
+
+| `pip install numpy` |or | `conda install numpy` |
+|-------------------  |-  |---------------------  |
+
+At the moment there are following folder for categorised exercises.
+
+- [anim](anim/)
+- [lattice](lattice/)
+- [myqlm](myqlm/)
+- [pulser](pulser/)
+- [qiskit](qiskit/)
+- [visualize_nn](visualize_nn/)
