@@ -1,0 +1,17 @@
+author: Rajarshi Tiwari
+email: rajarshi84@gmail.com
+title: Python Codes
+
+theme: jekyll-theme-minimal
+
+markdown_ext: md
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+plugins:
+  - jekyll-feed
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-toc
