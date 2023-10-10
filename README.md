@@ -1,6 +1,7 @@
 ---
 title: Python Codes
 mathjax: true
+permalink: '/'
 ---
 
 # ➤ python-codes
@@ -17,3 +18,5 @@ At the moment there are following folder for categorised exercises.
 - [pulser](pulser/)
 - [qiskit](qiskit/)
 - [visualize_nn](visualize_nn/)
+
+More updates soon!

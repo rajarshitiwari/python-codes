@@ -10,6 +10,9 @@ __pycache__/
 *.txt
 *.dat
 
+_site
+Gemfile.lock
+
 # C extensions
 *.so
 
