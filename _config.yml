@@ -1,6 +1,7 @@
 author: Rajarshi Tiwari
 email: rajarshi84@gmail.com
 title: Python Codes
+url: 'https://rajarshitiwari.github.io'
 baseurl: '/python-codes'
 
 theme: jekyll-theme-minimal
